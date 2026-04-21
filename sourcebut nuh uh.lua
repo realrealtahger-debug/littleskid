@@ -9,8 +9,8 @@ Removing anything could trigger a nonremovable Global Blacklist, even as a Scrip
 ]]
 
 VL_Key   = VL_Key or ""
-VL_Name  = "igownz"
-VL_Title = VL_Title or "igownz's Script"
+VL_Name  = "rylvn"
+VL_Title = VL_Title or "rylvn's aimbot4"
 VL_Image = VL_Image or "127233012553469"
 
 do
